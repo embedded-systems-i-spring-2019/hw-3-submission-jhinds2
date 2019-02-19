@@ -2,6 +2,6 @@
 hw-3-submission-jhinds2 created by GitHub Classroom
 
 
-#Done By:
+# Done By:
 Justin Hinds
 Net-ID: jth140
